@@ -1,0 +1,33 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+
+  
+}
+
+.io{
+  width: 80vh;
+  height: 30vh;
+  margin-bottom: 40px;
+}
+
+.firstRqst{
+  margin-top: 40px;
+}
+
+.getResult{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 180px;
+  height: 60px;
+  font-size: large;
+  background-color: rgb(94, 110, 124);
+  color: aliceblue;
+}
+
+.obs{
+  color: red;
+}
